@@ -1,0 +1,6 @@
+{
+  "name": "YES? — Associative Influencer Directory",
+  "description": "An associative creative directory and outreach network for Robert Silhol's sci-fi book YES?, indexing 27 influencers across 6 disciplines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
